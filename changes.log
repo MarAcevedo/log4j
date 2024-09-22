@@ -1,0 +1,20 @@
+[2024-09-22 00:16:23] [INFO ][AverageList:18] La lista tiene mas de 10  y el promedio es 3
+[2024-09-22 00:18:56] [INFO ][AverageList:18] La lista tiene mas de 10  y el promedio es 3
+[2024-09-22 00:19:11] [INFO ][AverageList:18] La lista tiene mas de 10  y el promedio es 3
+[2024-09-22 00:19:16] [INFO ][AverageList:18] La lista tiene mas de 10  y el promedio es 3
+[2024-09-22 00:22:54] [INFO ][AverageList:19] La lista tiene mas de 10  y el promedio es 3
+[2024-09-22 00:25:37] [INFO ][AverageList:19] La lista tiene mas de 10  y el promedio es 3
+[2024-09-22 00:30:09] [INFO ][AverageList:19] La lista tiene mas de 10  y el promedio es 3
+[2024-09-22 00:31:59] [INFO ][AverageList:19] La lista tiene mas de 10  y el promedio es 3
+[2024-09-22 00:33:32] [INFO ][AverageList:19] La lista tiene mas de 10  y el promedio es 3
+[2024-09-22 00:35:54] [INFO ][AverageList:15] La lista tiene mas de 5 numeros y el promedio es 4
+[2024-09-22 00:35:54] [INFO ][AverageList:15] La lista tiene mas de 5 numeros y el promedio es 6
+[2024-09-22 00:35:54] [INFO ][AverageList:19] La lista tiene mas de 10  y el promedio es 6
+[2024-09-22 00:51:32] [INFO ][AverageList:15] La lista tiene mas de 5 numeros y el promedio es 4
+[2024-09-22 00:51:32] [INFO ][AverageList:15] La lista tiene mas de 5 numeros y el promedio es 6
+[2024-09-22 00:51:32] [INFO ][AverageList:19] La lista tiene mas de 10  y el promedio es 6
+[2024-09-22 00:51:32] [ERROR][Main:19] La lista esta vaciajava.lang.Exception
+[2024-09-22 00:51:46] [INFO ][AverageList:15] La lista tiene mas de 5 numeros y el promedio es 4
+[2024-09-22 00:51:46] [INFO ][AverageList:15] La lista tiene mas de 5 numeros y el promedio es 6
+[2024-09-22 00:51:46] [INFO ][AverageList:19] La lista tiene mas de 10  y el promedio es 6
+[2024-09-22 00:51:46] [ERROR][Main:19] La lista esta vacia java.lang.Exception
